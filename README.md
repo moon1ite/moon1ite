@@ -1,14 +1,14 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hello 안녕하세요
 
 
-### I'm Jihyung Moon, Co-founder & CTO at [SoftlyAI](https://softly.ai/)
-We build AI associates for professionals so that they can focus on bigger problems. <br>
-💹 For investors: [AILookUp](https://ai-lookup.softly.ai) | 🏥 For (digital) healthcare providers: [AI Clinic Coordinator](https://softly.ai/ai-clinic-coordinator)
+### I'm Jihyung Moon
+- was a co-founder & CTO of one of many AI startups (acquired); now leading the AI team at the acquiring company
+- Prev. AI Research Engineer @NAVER & Founding AI Research Engineer @upstage
+
 
 #### ⚡ (Some) Interests
-- Building a great AI product
-- Effective and efficient AI product development
-- Scale
+- Developing profitable AI products that solve problems where AI is a necessity, not just a novelty
+- AI Evaluation
 
 #### 🎙 (Some) Talks
 - AI and Marginalized Languages, ICML 2023 Panel Discussion
@@ -29,10 +29,9 @@ We build AI associates for professionals so that they can focus on bigger proble
 <div align=center>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mjihyung/)](https://www.linkedin.com/in/mjihyung/)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jihyung_moon)](https://twitter.com/jihyung_moon)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/jihyung.moon.9)](https://www.facebook.com/jihyung.moon.9)
-[![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat&logo=github&link=https://inmoonlight.github.io/)](https://inmoonlight.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jihyung-moon/)](https://www.linkedin.com/in/jihyung-moon/)
+[![X (Formerly Twitter) Badge](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jihyung_moon)](https://twitter.com/jihyung_moon)
+[![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat&logo=github&link=https://thespacemoon.com)](https://thespacemoon.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mjihyung@gmail.com)](mailto:mjihyung@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finmoonlight&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div>
