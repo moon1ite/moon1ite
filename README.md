@@ -33,5 +33,4 @@
 [![X (Formerly Twitter) Badge](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jihyung_moon)](https://twitter.com/jihyung_moon)
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat&logo=github&link=https://thespacemoon.com)](https://thespacemoon.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mjihyung@gmail.com)](mailto:mjihyung@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finmoonlight&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div>
