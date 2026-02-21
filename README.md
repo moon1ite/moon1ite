@@ -2,18 +2,11 @@
 
 
 ### I'm Jihyung Moon
-- was a co-founder & CTO of one of many AI startups (acquired); now leading the AI team at the acquiring company
-- Prev. AI Research Engineer @NAVER & Founding AI Research Engineer @upstage
+I make AI products. Previously made AI papers. Still debugging.
 
-
-#### ⚡ (Some) Interests
-- Developing profitable AI products that solve problems where AI is a necessity, not just a novelty
-- AI Evaluation
-
-#### 🎙 (Some) Talks
-- AI and Marginalized Languages, ICML 2023 Panel Discussion
-- KLUE and XTREME, Google Internal Seminar Series: XTREME Talks w/ Kyunghyun Cho, Jihyung Moon and Sungjoon Park
-- [KLUE: Korean Language Understanding Evaluation](https://www.youtube.com/watch?v=w4DYkRHceqc), BigScience Episode \#2 Invited Talk w/ Kyunghyun Cho, Jihyung Moon and Sungjoon Park
+- AI Product Lead @ [HealingPaper (UNNI)](https://www.healingpaper.com/)
+- Prev. Co-founder & CTO @ [softly](https://softly.ai/)
+- Prev. AI Research Engineer @ [NAVER](https://www.navercorp.com/en) & Founding AI Research Engineer @ [Upstage](https://upstage.ai/)
 
 #### 📄 (Some) Publications
 - [Analyzing Norm Violations in Real-Time Live-Streaming Chat](https://arxiv.org/abs/2305.10731), EMNLP 2023
@@ -30,7 +23,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jihyung-moon/)](https://www.linkedin.com/in/jihyung-moon/)
-[![X (Formerly Twitter) Badge](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jihyung_moon)](https://twitter.com/jihyung_moon)
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=w5idTSEAAAAJ&hl=en&authuser=1)
 [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat&logo=github&link=https://thespacemoon.com)](https://thespacemoon.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mjihyung@gmail.com)](mailto:mjihyung@gmail.com)
 <div>
