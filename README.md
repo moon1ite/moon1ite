@@ -5,7 +5,7 @@
 I make AI products. Previously made AI papers. Still debugging.
 
 - AI Product Lead @ [HealingPaper (UNNI)](https://www.healingpaper.com/)
-- Prev. Co-founder & CTO @ [softly](https://softly.ai/)
+- Prev. Co-founder & CTO @ softly
 - Prev. AI Research Engineer @ [NAVER](https://www.navercorp.com/en) & Founding AI Research Engineer @ [Upstage](https://upstage.ai/)
 
 #### 🎙 (Some) Talks
