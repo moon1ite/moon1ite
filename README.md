@@ -25,7 +25,7 @@ I make AI products. Previously made AI papers. Still debugging.
 
 <div align=center>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihyung-moon/)
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jihyung-moon/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=w5idTSEAAAAJ&hl=en&authuser=1)
 [![Blog Badge](https://img.shields.io/badge/Blog-black?style=flat&logo=github)](https://www.thespacemoon.com/)
 </div>
