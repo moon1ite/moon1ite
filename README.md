@@ -2,7 +2,7 @@
 
 
 ### I'm Jihyung Moon
-I make AI products. Previously made AI papers. Still debugging.
+I ship AI products. Previously made AI papers and startup. Still debugging.
 
 - AI Product Lead @ [HealingPaper (UNNI)](https://www.healingpaper.com/)
 - Prev. Co-founder & CTO @ softly
